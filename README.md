@@ -7,20 +7,6 @@ Welcome to the Quiz Earn project! This project is an Android application that al
   <div style="display: flex; flex-wrap: wrap; gap: 12px">
 
 
-<img width="400px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/f54ffe1b-cddd-4a40-9cea-3b6a2018c82a"/>
-<img width="400px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6"/>
-<img width="250px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/32519be8-dae3-4abe-92da-4a9e29703916"/>
-          
-<img width="250px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/ec58f2a4-1e3e-47b0-a5aa-78d75ab755b9"/>
-    
-<img width="250px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/c1a849d0-8fb7-4000-99ab-1475e5dda203"/>
-          
-<img width="250px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/77fbe085-1cab-4fb6-84b3-395341665a29"/>
-    
-<img width="250px" src="https://github.com/rishavchanda/Quiz-Earn/assets/64485885/59dd75de-217b-4cdc-b9a3-20d8c1560c6b"/>
-  </div>
-</div>
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
