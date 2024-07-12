@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quiz Earn Project
 
 Welcome to the Quiz Earn project! This project is an Android application that allows users to participate in quizzes and earn rewards for correct answers.
@@ -64,3 +65,6 @@ Contributions are welcome! If you'd like to contribute to the Quiz Earn project,
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+=======
+# Quiz-app
+>>>>>>> 6297917c2971604b542673ac835f64afcbc9aedf
